@@ -18,4 +18,10 @@ var numberArray: number[] = [1, 2, 3, 4, 5];
 var booleanArray: boolean[] = [true, false, false, true];
 var anyArray: any[] = [1, 2, 'Bye', true];
 
+//tuple
+
+var strNumTuple: [string, number];
+strNumTuple = ['Bye', 2567];
+
+//void, undefined, null
 document.write();
